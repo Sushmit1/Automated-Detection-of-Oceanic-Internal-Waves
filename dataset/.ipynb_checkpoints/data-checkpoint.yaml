@@ -1,0 +1,5 @@
+train: images_train
+val: images_test
+names:
+  0: negative
+  1: positive

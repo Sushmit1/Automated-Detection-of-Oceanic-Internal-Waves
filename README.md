@@ -41,3 +41,6 @@ Dataset :
    model.eval()
 
 ### Results Summary
+
+![Performance Metrics](https://github.com/Sushmit1/Automated-Detection-of-Oceanic-Internal-Waves/blob/main/performance_metrics_crop.png?raw=true)
+

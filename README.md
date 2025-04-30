@@ -34,8 +34,8 @@ Dataset :
 2. Install Dependencies:
    pip install -r requirements.txt
 
-3. Run the Jupyter Notebooks from the Notebooks folder OR Run the pretrained models from the Models folder:
-   Example (PyTorch - ResNet-34) 
+3. Run the Jupyter Notebooks from the Notebooks folder OR Run the pretrained models from the Models folder: <br>
+   Example (PyTorch - ResNet-34) <br>
    // Load the pretrained model <br>
    model = torch.load('Models/resnet34_trained.pth') <br>
    model.eval()

@@ -20,11 +20,24 @@ Models Used:
 Dataset : 
 
 * Source: Sentinel-1 SAR Imagery (Kaggle Dataset)
+* Images: 4,000+ (RGB + Alpha channel, 539×528 resolution)
+* Classes: Binary (Internal Wave Present = 1, Absent = 0)
+* Balanced: 50/50 class distribution
+* Augmentations: Rotation (90°, 180°, 270°)
 
-Images: 4,000+ (RGB + Alpha channel, 539×528 resolution)
+### How to Run:
 
-Classes: Binary (Internal Wave Present = 1, Absent = 0)
+1. Clone the Repository :
+   git clone https://github.com/yourusername/internal-waves-detection.git
+   cd internal-waves-detection
 
-Balanced: 50/50 class distribution
+2. Install Dependencies:
+   pip install -r requirements.txt
 
-Augmentations: Rotation (90°, 180°, 270°)
+3. Run the Jupyter Notebooks from the Notebooks folder OR Run the pretrained models from the Models folder:
+   Example (PyTorch - ResNet-34) 
+   // Load the pretrained model
+   model = torch.load('Models/resnet34_trained.pth')
+   model.eval()
+
+### Results Summary

@@ -2,6 +2,10 @@ Internal waves play a crucial role in ocean mixing and climate modeling, but are
 
 ![Performance Metrics](https://github.com/Sushmit1/Automated-Detection-of-Oceanic-Internal-Waves/blob/main/detetctions.png)
 
+<p align="center">
+  <img src="https://github.com/Sushmit1/Automated-Detection-of-Oceanic-Internal-Waves/blob/main/performance_metrics_crop.png?raw=true" width="600" alt="Performance Metrics">
+</p>
+
 Models Used:
 1. MLP (Multi-layer Perceptron)
 2. Custom CNN

@@ -36,8 +36,8 @@ Dataset :
 
 3. Run the Jupyter Notebooks from the Notebooks folder OR Run the pretrained models from the Models folder:
    Example (PyTorch - ResNet-34) 
-   // Load the pretrained model <b>
-   model = torch.load('Models/resnet34_trained.pth') <b>
+   // Load the pretrained model <br>
+   model = torch.load('Models/resnet34_trained.pth') <br>
    model.eval()
 
 ### Results Summary

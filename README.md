@@ -41,3 +41,4 @@ Dataset :
    model.eval()
 
 ### Results Summary
+![alt text]([https://github.com/Sushmit1/Projects/blob/main/Anime%20Face%20Generation%20using%20DCGAN/Generated/generated-image-0001.png](https://github.com/Sushmit1/Automated-Detection-of-Oceanic-Internal-Waves/blob/main/performance_metrics_crop.png))  

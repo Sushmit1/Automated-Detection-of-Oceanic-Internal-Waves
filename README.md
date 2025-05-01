@@ -1,4 +1,7 @@
 Internal waves play a crucial role in ocean mixing and climate modeling, but are hard to detect. This project leverages deep learning models to automate the detection process using Sentinel-1 SAR imagery.
+<p align="center">
+  <img src="https://github.com/Sushmit1/Automated-Detection-of-Oceanic-Internal-Waves/blob/main/detetctions.png?raw=true">
+</p>
 
 Models Used:
 1. MLP (Multi-layer Perceptron)
